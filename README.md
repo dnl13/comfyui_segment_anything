@@ -1,3 +1,7 @@
+# Important 
+
+This fork has been archived in favor of: https://github.com/dnl13/ComfyUI-dnl13-seg
+
 # ComfyUI Segment Anything
 
 This project is a ComfyUI version of
